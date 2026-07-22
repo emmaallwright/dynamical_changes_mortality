@@ -4,7 +4,10 @@ Scripts are provided for the code developed for this study. Some data must be pr
 
 Preprocessing using CDO:
 # CDO code
-cdo delfeb29 whole temp series \n
-cdo ydaysub to compute clim \n
-clim lowpass 10 to smooth clim \n
-cdo trend to compute slope and intercept on anomalies \n
+cdo delfeb29 whole temp series 
+
+cdo ydaysub to compute clim 
+
+clim lowpass 10 to smooth clim 
+
+cdo trend to compute slope and intercept on anomalies
